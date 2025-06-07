@@ -149,7 +149,15 @@ Follow these steps to simulate the Router 1x3 and verify its functionality:
 
 * __Log file result__:
 
-![log]()
+![log](https://github.com/so1taynguyen/Router-1x3-UVM-Verification-IP/blob/main/images/logs.png)
+
+* __Waveform result__:
+
+![wave](https://github.com/so1taynguyen/Router-1x3-UVM-Verification-IP/blob/main/images/waveform.png)
+
+* __Functional Coverage result__:
+
+![coverage](https://github.com/so1taynguyen/Router-1x3-UVM-Verification-IP/blob/main/images/coverage.png)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
