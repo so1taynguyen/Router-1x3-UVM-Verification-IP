@@ -147,6 +147,10 @@ Follow these steps to simulate the Router 1x3 and verify its functionality:
 
 * __Coverage Analysis__: The covergroup ensures adequate testing of data values, destination ports, and payload sizes, achieving high functional coverage.
 
+* __Log file result__:
+
+![log]()
+
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
